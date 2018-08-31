@@ -27,3 +27,4 @@
 * https://eu.mouser.com/datasheet/2/15/EC11-1370822.pdf
 * https://4donline.ihs.com/images/VipMasterIC/IC/SILX/SILXS13275/SILXS13275-1.pdf
 * http://www.circuitdiagramworld.com/led_circuit_diagram/Voltage_Controlled_Attenuator__Volume_Control__Using_FET_17666.html
+* https://www.diystompboxes.com/smfforum/index.php?topic=94466.0
