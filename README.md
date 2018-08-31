@@ -28,3 +28,6 @@
 * https://4donline.ihs.com/images/VipMasterIC/IC/SILX/SILXS13275/SILXS13275-1.pdf
 * http://www.circuitdiagramworld.com/led_circuit_diagram/Voltage_Controlled_Attenuator__Volume_Control__Using_FET_17666.html
 * https://www.diystompboxes.com/smfforum/index.php?topic=94466.0
+* http://www.calogic.net/pdf/SST404_Datasheet_Rev_A.pdf
+* http://www.onsemi.com/pub/Collateral/ENA1966-D.PDF
+* http://www.farnell.com/datasheets/1815497.pdf PMBFJ620
