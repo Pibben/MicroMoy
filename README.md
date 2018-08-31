@@ -17,6 +17,7 @@
 ### Amplifier
 * Dual OpAmp IC
 * 0.1 uF caps
+* In- / Output jacks
 
 ## References
 
