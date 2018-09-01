@@ -31,3 +31,4 @@
 * http://www.calogic.net/pdf/SST404_Datasheet_Rev_A.pdf
 * http://www.onsemi.com/pub/Collateral/ENA1966-D.PDF
 * http://www.farnell.com/datasheets/1815497.pdf PMBFJ620
+* https://www.vishay.com/docs/70598/70598.pdf
