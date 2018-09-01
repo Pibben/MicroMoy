@@ -2,22 +2,22 @@
 
 ## Prototype
 ### Power supply
-* Input jack
+* Input jack (9x9x11mm)
 * Virtual Ground IC
-* Caps
+* Caps (8mm)
 
 ### Volume control alternative 1
 * Rotary encoder
 * Volume control IC
 
 ### Volume control alternative 2
-* Potentiometer
+* Potentiometer (9x9x16mm)
 * Voltage-controlled resistor FET
 
 ### Amplifier
 * Dual OpAmp IC
 * 0.1 uF caps
-* In- / Output jacks
+* In- / Output jacks (12x8mm)
 
 ## References
 
@@ -32,3 +32,6 @@
 * http://www.onsemi.com/pub/Collateral/ENA1966-D.PDF
 * http://www.farnell.com/datasheets/1815497.pdf PMBFJ620
 * https://www.vishay.com/docs/70598/70598.pdf
+* https://www.tme.eu/en/Document/61a0705501a0f89f07f25672e998ba0b/ALPS_RK097.pdf
+* https://www.mouser.se/datasheet/2/414/Datasheet_PanelPot_P09xSeries-1134489.pdf
+* https://www.mouser.se/datasheet/2/54/tr90-777814.pdf
