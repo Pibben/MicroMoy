@@ -5,19 +5,19 @@
 * https://tangentsoft.net/elec/vgrounds.html
 * Input jack (9x9x11mm)
 * Virtual Ground IC (BUF634)
-** http://www.ti.com/lit/ds/symlink/buf634.pdf
-** http://www.ti.com/lit/gpn/lmh6321
+* * http://www.ti.com/lit/ds/symlink/buf634.pdf
+* * http://www.ti.com/lit/gpn/lmh6321
 * Cap 470uF (8mm)
 * 2 220k resistors
 
 ### Volume control alternative 1
 * Rotary encoder
-** https://www.tme.eu/en/Document/0ebbc64ade625a62b285b77e718a2ac7/ALPS-EC11J.pdf
-*** https://www.tme.eu/en/details/ec11j1524413/incremental-type-encoders/alps/
-*** https://www.ebay.com/itm/EC11J1524413-Encoder-incremental-Mounting-SMD-SMT-15imp-revol-10mA-ALPS/401475259406
+* * https://www.tme.eu/en/Document/0ebbc64ade625a62b285b77e718a2ac7/ALPS-EC11J.pdf
+* * * https://www.tme.eu/en/details/ec11j1524413/incremental-type-encoders/alps/
+* * * https://www.ebay.com/itm/EC11J1524413-Encoder-incremental-Mounting-SMD-SMT-15imp-revol-10mA-ALPS/401475259406
 * Volume control IC
-** https://datasheets.maximintegrated.com/en/ds/MAX5440.pdf
-*** https://www.ebay.com/sch/i.html?_from=R40&_nkw=MAX5440&_sacat=0&_sop=15
+* * https://datasheets.maximintegrated.com/en/ds/MAX5440.pdf
+* * * https://www.ebay.com/sch/i.html?_from=R40&_nkw=MAX5440&_sacat=0&_sop=15
 
 ### Volume control alternative 2
 * Potentiometer (9x9x16mm)
