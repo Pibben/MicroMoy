@@ -33,14 +33,17 @@
 * Voltage-controlled resistor FET
 
 ### Amplifier
-* Dual OpAmp IC (SOIC-8) (OPA2132, AD826, OPA2604, LT1364, AD823, AD8620, OPA2134, OPA227)
+* Dual OpAmp IC (SOIC-8) (OPA2132, AD826, OPA2604, LT1364, AD823, AD8620, OPA2134, OPA227) DIL-8, 10x10x5mm
 * DIL socket
-  * https://www.tme.eu/en/details/gold-8p-smd/precision-sockets/connfly/ds1001-02-08n13/ 6kr
+  * https://www.tme.eu/en/details/gold-8p-smd/precision-sockets/connfly/ds1001-02-08n13/ 5.33mm 6kr
   * https://www.mouser.se/ProductDetail/Mill-Max/110-47-308-41-105000?qs=sGAEpiMZZMs%2fSh%2fkjph1tkCPjfxlAKUmMb0760r1HTQ%3d 1€
 * 0.1 uF caps (0.22 µF, 0.47 µF)
 * In- / Output jacks
   * https://www.tme.eu/en/details/1503-02/jack-connectors/lumberg/1503-02/ 5x6x19mm 11kr
   
+### Board-to-board
+* https://www.tme.eu/en/details/ph1-40-ua-smt-a/pin-headers/adam-tech/ 3+6mm
+* https://www.tme.eu/en/details/ds1002-01-1x60s13/pin-headers/connfly/ds1002-01-1_60s13/ 2.6+3mm (female)
 
 ## References
 
