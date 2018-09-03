@@ -19,7 +19,7 @@
 
 ### Volume control alternative 1
 * Rotary encoder
-  * https://www.tme.eu/en/Document/0ebbc64ade625a62b285b77e718a2ac7/ALPS-EC11J.pdf
+  * https://www.tme.eu/en/Document/0ebbc64ade625a62b285b77e718a2ac7/ALPS-EC11J.pdf 15x18mm (11x14) O=9mm @ 4.5mm.
     * https://www.tme.eu/en/details/ec11j1524413/incremental-type-encoders/alps/ 15kr
     * https://www.ebay.com/itm/EC11J1524413-Encoder-incremental-Mounting-SMD-SMT-15imp-revol-10mA-ALPS/401475259406 47+11kr
     * https://www.mouser.se/ProductDetail/ALPS/EC11J1524413?qs=%2fha2pyFaduh7AImzMyKctVfqHwIT8vYmn%252b1rkWaisnXlIU1aABuDkQ%3d%3d 4.67€
