@@ -44,6 +44,7 @@
 ### Board-to-board
 * https://www.tme.eu/en/details/ph1-40-ua-smt-a/pin-headers/adam-tech/ 3+6mm
 * https://www.tme.eu/en/details/ds1002-01-1x60s13/pin-headers/connfly/ds1002-01-1_60s13/ 2.6+3mm (female)
+* https://www.tme.eu/en/details/zl264-4dg/pin-headers/ninigi/ 7mm
 
 ## References
 
