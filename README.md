@@ -33,7 +33,7 @@
 * Voltage-controlled resistor FET
 
 ### Amplifier
-* Dual OpAmp IC (SOIC-8) (OPA2132, AD826, OPA2604, LT1364, AD823, AD8620, OPA2134, OPA227) DIL-8, 10x10x5mm
+* Dual OpAmp IC (SOIC-8) (OPA2132, AD826, OPA2604, LT1364, AD823, AD8620, OPA2134, OPA227) DIL-8, 10x10x3mm
 * DIL socket
   * https://www.tme.eu/en/details/gold-8p-smd/precision-sockets/connfly/ds1001-02-08n13/ 5.33mm 6kr
   * https://www.mouser.se/ProductDetail/Mill-Max/110-47-308-41-105000?qs=sGAEpiMZZMs%2fSh%2fkjph1tkCPjfxlAKUmMb0760r1HTQ%3d 1€
