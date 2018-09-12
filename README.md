@@ -27,6 +27,7 @@
   * https://datasheets.maximintegrated.com/en/ds/MAX5440.pdf
     * https://www.ebay.com/sch/i.html?_from=R40&_nkw=MAX5440&_sacat=0&_sop=15 25+35kr
     * https://www.mouser.se/ProductDetail/Maxim-Integrated/MAX5440EAG%2b?qs=%2fha2pyFaduj%252bUuifj%252bX18AtYLH0Zs5TS%252byLsRIch5DQ%3d 1.50€
+* 5V coltage converter
 
 ### Volume control alternative 2
 * Potentiometer (9x9x16mm)
