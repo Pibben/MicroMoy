@@ -355,23 +355,6 @@ Wire Wire Line
 	6100 6100 6100 5900
 Text Label 6100 5900 0    50   ~ 0
 +12V_UPPER
-$Comp
-L Regulator_Linear:L7805 U4
-U 1 1 5B9B95EA
-P 6500 5200
-F 0 "U4" H 6500 5442 50  0000 C CNN
-F 1 "L7805" H 6500 5351 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-89-3_Handsoldering" H 6525 5050 50  0001 L CIN
-F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" H 6500 5150 50  0001 C CNN
-	1    6500 5200
-	1    0    0    -1  
-$EndComp
-Text Label 6200 5200 2    50   ~ 0
-+12V_UPPER
-Text Label 6500 5500 2    50   ~ 0
-VGND_UPPER
-Text Label 6800 5200 0    50   ~ 0
-+5V_UPPER
 Wire Wire Line
 	2000 6450 2000 6350
 Wire Wire Line
@@ -522,10 +505,7 @@ F 3 "~" H 6150 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6450 3000 6450 3100
-Wire Wire Line
 	6450 3100 6450 3200
-Connection ~ 6450 3100
 Text Label 6450 3200 0    50   ~ 0
 VGND_UPPER
 Text Label 5950 3000 2    50   ~ 0
@@ -572,4 +552,6 @@ Wire Wire Line
 	3950 5800 4050 5800
 Wire Wire Line
 	3450 4800 3700 4800
+Text Label 6450 3000 0    50   ~ 0
++5V_UPPER
 $EndSCHEMATC
